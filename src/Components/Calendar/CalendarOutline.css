@@ -1,0 +1,32 @@
+.weekdays{
+
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px 100px;
+    text-align: center;
+    
+}
+
+.day{
+    background-color: aquamarine;
+    margin: 5px;
+   
+}
+
+.YearTab {
+    font-weight: bold;
+   
+    margin-bottom: 20px;
+}
+
+.MonthTab{
+    font-weight: bold;
+    
+    margin-bottom: 20px;
+}
+
+.outlineCard{
+    margin-left:200px;
+    margin-right:200px;
+    background-color: beige;
+    color:black
+}

@@ -1,0 +1,23 @@
+.outline{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    max-width:700px;
+    text-align: center;
+    padding: 100px;
+    background-color: darkcyan;
+}
+
+.label{
+    color: white;
+}
+
+button{
+    color: white;
+    background-color: salmon;
+    margin-left: 20px;
+}
+
+form{
+    margin: 20px;
+}
